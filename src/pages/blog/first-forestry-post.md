@@ -1,5 +1,5 @@
 ---
-path: /post
+path: "/first"
 title: First FORESTRY post
 published: true
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
