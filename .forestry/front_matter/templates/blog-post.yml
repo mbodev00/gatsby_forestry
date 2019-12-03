@@ -34,3 +34,5 @@ fields:
   config:
     maxSize: 250
   label: Thumbnail
+pages:
+- src/pages/blog/first-forestry-post.md
